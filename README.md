@@ -14,7 +14,7 @@ Click [here](https://vishnuganeshan.github.io/) to check out my portfolio websit
 ### MY Project Lists:
 Project | Date | Describtion | Repo/Website Link
 -- | -- | -- | --
-DeMeRec | 4/7/2022 | Decentralized App to Store Medical Records | no
+DeMeRec | 4/7/2022 | Decentralized App to Store Medical Records | [link](https://github.com/VishnuGaneshan/demerec)
 Face Mask Detector |
 Desktop Assistance |
 Sorting Visualizer |
