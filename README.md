@@ -1,5 +1,4 @@
 # 👋 Hi, I’m Vishnu G
-## 💫 About Me:
 I'm a tech person interested in full-stack and blockchain
 
 
